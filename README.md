@@ -17,7 +17,7 @@ I contribute to the reliability and modernization of open source ecosystems, wit
 
 ### Experience
 
-**Software Development Engineer @ Ksolves**
+**Software Development Engineer @ Ksolves | 02/25-07/25**
 
 - Built a spam detection RAG system (95% accuracy).
 - Created a Text-to-SQL engine for non-technical users.
