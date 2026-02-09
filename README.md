@@ -4,7 +4,7 @@
 
 I build AI systems and distributed backends. Currently focused on open source tooling and RAG infrastructure.
 
-New Delhi, India &nbsp;•&nbsp; [vyagh.vy@gmail.com](mailto:vyagh.vy@gmail.com) &nbsp;•&nbsp; [Portfolio](vyagh.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/vyagh) &nbsp;•&nbsp; 𝕏 [vyagh_vy](https://x.com/vyagh_vy)
+New Delhi, India &nbsp;•&nbsp; [vyagh.vy@gmail.com](mailto:vyagh.vy@gmail.com) &nbsp;•&nbsp; [Portfolio](https://vyagh.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/vyagh) &nbsp;•&nbsp; [X](https://x.com/vyagh_vy)
 
 ---
 
