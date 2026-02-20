@@ -1,14 +1,12 @@
 # vyagh (Shubham Sharma)
 
-> Full Stack AI Engineer. Open Source Contributor.
-
 I build AI systems and distributed backends. Currently focused on open source tooling and RAG infrastructure.
 
 New Delhi, India &nbsp;•&nbsp; [vyagh.vy@gmail.com](mailto:vyagh.vy@gmail.com) &nbsp;•&nbsp; [Portfolio](https://vyagh.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/vyagh) &nbsp;•&nbsp; [X](https://x.com/vyagh_vy)
 
 ---
 
-### Open Source
+### Open Source Contributions
 
 I contribute to the reliability and modernization of open source ecosystems, with a focus on core infrastructure and developer experience.
 
@@ -18,11 +16,10 @@ I contribute to the reliability and modernization of open source ecosystems, wit
 
 ### Experience
 
-**Software Development Engineer @ Ksolves | 02/25-07/25**
+**Software Development Engineer @ Ksolves | 02/25 - 07/25**
 
-- Built a spam detection RAG system (95% accuracy).
-- Created a Text-to-SQL engine for non-technical users.
-- Designed Kafka/NiFi pipelines for high-volume data processing.
-- Set up Prometheus & Grafana for system monitoring.
+- Built RAG systems and applied AI applications.
+- Designed Kafka and NiFi pipelines for high-volume data processing.
+- Worked with Prometheus & Grafana for system monitoring.
 
 ---
