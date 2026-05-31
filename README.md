@@ -1,6 +1,6 @@
 Applied AI / Infra engineer working across open-source systems, data pipelines, and backend tooling.
 
-OpenTelemetry CNCF CODEOWNER for the alibabacloudlogservice exporter.
+OpenTelemetry CNCF Codeowner
 
 ### Open Source Contributions
 
