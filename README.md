@@ -9,6 +9,3 @@ Infra and applied-AI engineer.
 - **[Sugar Labs](https://github.com/search?q=is%3Apr+author%3Avyagh+org%3Asugarlabs&type=pullrequests)**
 - **[KubeEdge](https://github.com/search?q=is%3Apr+author%3Avyagh+org%3Akubeedge&type=pullrequests)**
 
-[vyagh.vercel.app](https://vyagh.vercel.app)
-
-
