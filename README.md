@@ -1,11 +1,13 @@
-Infra and applied-AI engineer.
+### Shubham Sharma
 
-- CodeOwner, CNCF OpenTelemetry Collector Contrib ( `receiver/huaweicloudces`, `exporter/alibabacloudlogservice` )
-- Google Summer of Code 2026, Sugar Labs ([Final Report](https://github.com/sugarlabs/GSoC/blob/master/archives/2026/student-reports/GSoC_2026_Final_Report_Shubham_Sharma.md))
+Software engineer · AI and infrastructure
 
-### Open Source Contributions
+> [Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/projects/Zhuej8Pa)
 
-- **[OpenTelemetry](https://github.com/search?q=is%3Apr+author%3Avyagh+org%3Aopen-telemetry+&type=pullrequests)**
-- **[Sugar Labs](https://github.com/search?q=is%3Apr+author%3Avyagh+org%3Asugarlabs&type=pullrequests)**
-- **[KubeEdge](https://github.com/search?q=is%3Apr+author%3Avyagh+org%3Akubeedge&type=pullrequests)**
+> [Code owner, OpenTelemetry](https://github.com/search?q=org:open-telemetry+author:vyagh+is:pr+is:merged&type=pullrequests)
 
+> [Sugar team, Debian](https://salsa.debian.org/groups/pkg-sugar-team/-/group_members)
+
+Open source contributions: [OpenTelemetry](https://github.com/search?q=org:open-telemetry+author:vyagh+is:pr+is:merged&type=pullrequests) · [Music Blocks](https://github.com/sugarlabs/musicblocks/pulls?q=is:pr+author:vyagh+is:merged) · [KubeEdge](https://github.com/kubeedge/kubeedge/pulls?q=is:pr+author:vyagh+is:merged)
+
+[vyagh.vercel.app](https://vyagh.vercel.app) · [Resume](https://drive.google.com/file/d/12wefjaQmn3IeSK5_DwtFN3cPWizaYfml/view) · [LinkedIn](https://www.linkedin.com/in/vyagh) · vyagh.vy@gmail.com
